@@ -1,4 +1,88 @@
 body{
     font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+    margin:0%;
 
+}
+h4, h1{
+    margin: 0;
+}
+h3{
+    font-weight: 100;
+    margin: 0;
+    padding-bottom: 40px;
+    color: rgba(15, 13, 13, 0.479);
+    
+}
+.content_body{
+    background-color: rgba(64, 224, 208, 0.075);
+}
+.content_section h1{
+    font-size: 60px;
+}
+
+section{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+content_body{
+    background-color: #aefeff15;
+    
+}
+.content_section{
+   
+    padding-left: 50px;
+
+
+}
+
+.content_font{
+    margin-top: 100px;
+    width: 65%;
+    padding-left: 100px;
+}
+.content_2ndfont{
+    width: 30%;
+    padding-right: 200px;
+    
+}
+.t-collor{
+    color: #16ee9f;
+}
+
+.content_section a{
+    background-color:#16ee9f ;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: rgb(34, 30, 30);
+    border-radius: 5px;
+    
+
+}
+.hello_im{
+    color: #16ee9f;
+}
+.protfolio_body{
+    background-color:rgba(167, 245, 237, 0.075);   
+}
+.exprience_protfolio{
+    width: 100%;
+    padding: 50px;
+}
+.exprience_protfolio p{
+   color: rgb(36, 33, 33);
+   font-weight: 300px;
+   font-size: 15px;
+   font-style: normal;
+   font-stretch: wider  ;
+   padding-bottom: 50px;    
+   letter-spacing: 0.5px;
+  text-transform: inherit;}
+.exprience_protfolio a{
+    text-decoration: none;
+    padding: 20px 40px;
+    color: black;
+    background-color: #16ee9f;
 }
