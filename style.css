@@ -15,37 +15,44 @@ h3{
     color: rgba(15, 13, 13, 0.479);
     
 }
+
 .content_body{
     background-color: rgba(64, 224, 208, 0.075);
+    
+    
+}
+.content_area{
+    display: flex;
+    width: 70%;
+    margin: auto;
+
 }
 .content_section h1{
     font-size: 60px;
 }
 
+
 section{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 content_body{
     background-color: #aefeff15;
+    width: 80%;
+    display: auto;
     
 }
-.content_section{
-   
-    padding-left: 50px;
 
-
-}
 
 .content_font{
     margin-top: 100px;
-    width: 65%;
-    padding-left: 100px;
+    width: 75%;
+    
 }
 .content_2ndfont{
-    width: 30%;
-    padding-right: 200px;
+    width: 25%;
+    padding-right:200px ;
     
 }
 .t-collor{
@@ -70,6 +77,7 @@ content_body{
 .exprience_protfolio{
     width: 100%;
     padding: 50px;
+   
 }
 .exprience_protfolio p{
    color: rgb(36, 33, 33);
@@ -79,10 +87,168 @@ content_body{
    font-stretch: wider  ;
    padding-bottom: 50px;    
    letter-spacing: 0.5px;
+   word-spacing: 5px;
+   
   text-transform: inherit;}
-.exprience_protfolio a{
+.click_cv_button a{
     text-decoration: none;
-    padding: 20px 40px;
+    padding: 15px 20px;
     color: black;
     background-color: #16ee9f;
+}
+.click_cv_button{
+    float: left;
+    padding-right: 20px;
+}
+.click_protfillo_button a{
+    text-decoration: none;
+    padding: 15px 20px;
+    color: rgb(19, 2, 2);
+    background-color: #16ee9f;
+
+    
+}
+.skril_section{
+    background-color: rgba(167, 245, 237, 0.075);
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.skrill_area{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    
+}
+.first_hr{
+     width: 50%;   
+     margin:40px ;
+     
+}
+h5{
+    display: inline-block;
+    
+}
+#space_call{
+    padding-right: 300px;
+}
+#space_h3call{
+    padding-right: 250px;
+}
+.second_hr{
+    width: 50%;
+    margin:40px ;
+}
+.hr1{
+    border: solid 1.5px rgb(25, 201, 113);
+    
+
+}
+.hr2{
+    border: solid 1.5px rgb(25, 201, 113);
+    margin-right: 10%;
+}
+.hr3{
+    border: solid 1.5px rgb(25, 201, 113);
+    margin-right: 20%;
+}
+.hr4{
+    border: solid 1.5px rgb(25, 201, 113);
+    margin-right: 5%;
+}
+.hr5{
+    border: solid 1.5px rgb(25, 201, 113);
+    margin-right: 10%;
+}
+.hr6{
+    border: solid 1.5px rgb(25, 201, 113);
+    margin-right: 20%;
+}
+hr{
+    margin: 0;
+}
+
+.protfolio_section{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    
+    
+}
+.image_width{
+    width: 25%;
+    margin: auto;
+    
+    
+}
+.protfolio_section img{
+    
+    max-width: 90%;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border-radius: 20px;
+    border: solid 2px rgb(25, 201, 113);
+    
+    
+}
+
+
+.letest_text{
+    width: 100%;
+    margin: auto;
+    
+}
+.letest_text h1{
+    margin-left: 170px;
+}
+.protfolio_area{
+    background-color: rgba(167, 245, 237, 0.075);
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.prot_text{
+    background-color: rgba(167, 245, 237, 0.075);
+    padding-left: 175px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.subscription_area{
+    width: 100%;
+    background-color:rgba(167, 245, 237, 0.26);
+}
+.sub_section{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    
+}
+.sub_section h2{
+    padding-top: 10px;
+    color:#000000;
+}
+.sub_section a{
+    text-decoration: none;
+    padding: 15px 20px;
+    color: black;
+    background-color: #16ee9f;
+    margin: 30px 0 30px 377px;
+   
+}
+.footer_section h2{
+    color: #16ee9f;
+    
+}
+.footer_section{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
+}
+.footer_area{
+    background-color: rgb(167, 245, 237);
+    margin: 0;
+    height: 200px;
 }
