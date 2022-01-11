@@ -56,11 +56,11 @@ content_body{
     
 }
 .t-collor{
-    color: #16ee9f;
+    color: #0ced7d;
 }
 
 .content_section a{
-    background-color:#16ee9f ;
+    background-color:#0ced7d ;
     padding: 10px 20px;
     text-decoration: none;
     color: rgb(34, 30, 30);
@@ -69,7 +69,7 @@ content_body{
 
 }
 .hello_im{
-    color: #16ee9f;
+    color: #0ced7d;
 }
 .protfolio_body{
     background-color:rgba(167, 245, 237, 0.075);   
@@ -94,7 +94,7 @@ content_body{
     text-decoration: none;
     padding: 15px 20px;
     color: black;
-    background-color: #16ee9f;
+    background-color: #0ced7d;
 }
 .click_cv_button{
     float: left;
@@ -104,7 +104,7 @@ content_body{
     text-decoration: none;
     padding: 15px 20px;
     color: rgb(19, 2, 2);
-    background-color: #16ee9f;
+    background-color: #0ced7d;
 
     
 }
@@ -140,28 +140,28 @@ h5{
     margin:40px ;
 }
 .hr1{
-    border: solid 1.5px rgb(25, 201, 113);
+    border: solid 1.5px #0ced7d;
     
 
 }
 .hr2{
-    border: solid 1.5px rgb(25, 201, 113);
+    border: solid 1.5px #0ced7d;
     margin-right: 10%;
 }
 .hr3{
-    border: solid 1.5px rgb(25, 201, 113);
+    border: solid 1.5px #0ced7d;
     margin-right: 20%;
 }
 .hr4{
-    border: solid 1.5px rgb(25, 201, 113);
+    border: solid 1.5px #0ced7d;
     margin-right: 5%;
 }
 .hr5{
-    border: solid 1.5px rgb(25, 201, 113);
+    border: solid 1.5px #0ced7d;
     margin-right: 10%;
 }
 .hr6{
-    border: solid 1.5px rgb(25, 201, 113);
+    border: solid 1.5px #0ced7d;
     margin-right: 20%;
 }
 hr{
@@ -188,7 +188,7 @@ hr{
     height: 250px;
     margin: auto;
     border-radius: 20px;
-    border: solid 2px rgb(25, 201, 113);
+    border: solid 2px #0ced7d;
     
     
 }
@@ -233,12 +233,12 @@ hr{
     text-decoration: none;
     padding: 15px 20px;
     color: black;
-    background-color: #16ee9f;
+    background-color: #0ced7d;
     margin: 30px 0 30px 377px;
    
 }
 .footer_section h2{
-    color: #16ee9f;
+    color: #010f08;
     
 }
 .footer_section{
@@ -248,7 +248,7 @@ hr{
     
 }
 .footer_area{
-    background-color: rgb(167, 245, 237);
+    background-color: #0ced7d;
     margin: 0;
     height: 200px;
 }
